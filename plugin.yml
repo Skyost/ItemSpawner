@@ -1,0 +1,16 @@
+name: ItemSpawner
+main: fr.skyost.itemspawner.ItemSpawner
+description: Let items spawn in MonsterSpawners !
+version: 0.2.1
+author: Skyost
+website: http://www.skyost.eu/
+commands:
+ itemspawner:
+  aliases: [is]
+  description: Main command.
+  usage: Type /itemspawner to add the item in your hand to the MonsterSpawn.
+  permission: itemspawner.use
+permissions:
+ itemspawner.use:
+  default: op
+  description: Allows you to use the plugin.
