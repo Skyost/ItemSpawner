@@ -1,7 +1,7 @@
 name: ItemSpawner
 main: fr.skyost.itemspawner.ItemSpawner
 description: Let items spawn in MonsterSpawners !
-version: 0.2.1
+version: 0.3
 author: Skyost
 website: http://www.skyost.eu/
 commands:
